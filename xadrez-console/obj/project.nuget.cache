@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRLXHSJ2dFYJJ5xRXjiE86PfGbG+sm1utNmZtYIcG1tzhew6e2BDzRyKLRGGGZGx+0otljFLg6hfv3YPLH80Lw==",
+  "success": true,
+  "projectFilePath": "D:\\reposCS\\Exercicios\\xadrez-console\\xadrez-console\\xadrez_console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
